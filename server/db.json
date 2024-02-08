@@ -1,89 +1,127 @@
 {
   "todos": [
     {
-      "checked": true,
-      "title": "title6",
-      "description": "desc6",
-      "id": 6
+			"id": 1,
+      "checked": false,
+      "title": "Buy groceries",
+      "description": "Home Chores"
     },
     {
-      "checked": true,
-      "title": "title7",
-      "description": "desc7",
-      "id": 7
+      "id": 2,
+      "checked": false,
+      "title": "Finish report",
+      "description": "Work"
     },
     {
+      "id": 3,
       "checked": true,
-      "title": "title8",
-      "description": "desc8",
-      "id": 8
+      "title": "Call John",
+      "description": "Work"
     },
     {
-      "title": "test",
-      "description": "test",
+			"id": 4,
+      "checked": false,
+      "title": "Schedule dentist appointment",
+      "description": "Health"
+    },
+    {
+      "id": 5,
+      "checked": false,
+      "title": "Go to Gym",
+      "description": "Health"
+    },
+    {
+      "id": 6,
+      "checked": false,
+      "title": "finish last task",
+      "description": "Work"
+    },
+    {
+			"id": 7,
+      "checked": false,
+      "title": "Pick up dry cleaning",
+      "description": "Home Chores"
+    },
+    {
+      "id": 8,
+      "checked": false,
+      "title": "Pay electricity bill",
+      "description": "Home"
+    },
+    {
       "id": 9,
-      "checked": true
+      "checked": true,
+      "title": "Read chapter 5",
+      "description": "Education"
     },
     {
-      "title": "test",
-      "description": "",
-      "id": 10,
-      "checked": true
+			"id": 10,
+      "checked": false,
+      "title": "Write blog post",
+      "description": "Work"
     },
     {
-      "title": "test",
-      "description": "test",
       "id": 11,
-      "checked": true
+      "checked": false,
+      "title": "Go for a run",
+      "description": "Health"
     },
     {
-      "title": "test",
-      "description": "test",
       "id": 12,
-      "checked": true
+      "checked": true,
+      "title": "Attend team meeting",
+      "description": "Work"
     },
     {
-      "title": "test",
-      "description": "test",
       "id": 13,
-      "checked": true
+      "checked": true,
+      "title": "Call mom",
+      "description": "Rest"
     },
     {
-      "title": "test",
-      "description": "test",
-      "id": 14
+      "id": 14,
+      "checked": true,
+      "title": "Research vacation destinations",
+      "description": "Rest"
     },
     {
-      "title": "test",
-      "description": "test",
-      "id": 15
+      "id": 15,
+      "checked": true,
+      "title": "Prepare presentation slides",
+      "description": "Work"
     },
     {
-      "title": "new todo",
-      "description": "new todo",
-      "id": 16
+      "id": 16,
+      "checked": true,
+      "title": "Fix leaking faucet",
+      "description": "Home chores"
     },
     {
-      "title": "new todo",
-      "description": "new todo",
-      "id": 17
+      "id": 17,
+      "checked": true,
+      "title": "Buy birthday gift for Sarah",
+      "description": "Rest"
     },
-    {
-      "title": "new todo",
-      "description": "new todo",
-      "id": 18
+		{
+			"id": 18,
+      "checked": false,
+      "title": "Review budget",
+      "description": "Home Chores"
     },
-    {
-      "title": "new todo",
-      "description": "new todo",
-      "id": 19
+		{
+			"id": 19,
+      "checked": false,
+      "title": "Water the plants",
+      "description": "Home Chores"
     },
-    {
-      "title": "new todo",
-      "description": "new todo",
-      "id": 20
+		{
+			"id": 20,
+      "checked": false,
+      "title": "Call insurance company",
+      "description": "Home Chores"
     }
   ],
+
   "projects": [
     { "id": 1, "name": "project1" },
     { "id": 2, "name": "project2" },
