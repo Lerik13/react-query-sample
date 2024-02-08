@@ -1,7 +1,7 @@
 {
   "todos": [
     {
-			"id": 1,
+      "id": 1,
       "checked": false,
       "title": "Buy groceries",
       "description": "Home Chores"
@@ -19,7 +19,7 @@
       "description": "Work"
     },
     {
-			"id": 4,
+      "id": 4,
       "checked": false,
       "title": "Schedule dentist appointment",
       "description": "Health"
@@ -37,7 +37,7 @@
       "description": "Work"
     },
     {
-			"id": 7,
+      "id": 7,
       "checked": false,
       "title": "Pick up dry cleaning",
       "description": "Home Chores"
@@ -55,7 +55,7 @@
       "description": "Education"
     },
     {
-			"id": 10,
+      "id": 10,
       "checked": false,
       "title": "Write blog post",
       "description": "Work"
@@ -102,45 +102,101 @@
       "title": "Buy birthday gift for Sarah",
       "description": "Rest"
     },
-		{
-			"id": 18,
+    {
+      "id": 18,
       "checked": false,
       "title": "Review budget",
       "description": "Home Chores"
     },
-		{
-			"id": 19,
+    {
+      "id": 19,
       "checked": false,
       "title": "Water the plants",
       "description": "Home Chores"
     },
-		{
-			"id": 20,
+    {
+      "id": 20,
       "checked": false,
       "title": "Call insurance company",
       "description": "Home Chores"
+    },
+    {
+      "title": "new todo",
+      "description": "new",
+      "id": 25
+    },
+    {
+      "title": "new todo2",
+      "description": "2",
+      "id": 26
     }
   ],
-
   "projects": [
-    { "id": 1, "name": "project1" },
-    { "id": 2, "name": "project2" },
-    { "id": 3, "name": "project3" },
-    { "id": 4, "name": "project4" },
-    { "id": 5, "name": "project5" },
-    { "id": 6, "name": "project6" },
-    { "id": 7, "name": "project7" },
-    { "id": 8, "name": "project8" },
-    { "id": 9, "name": "project9" },
-    { "id": 10, "name": "project10" },
-    { "id": 11, "name": "project11" },
-    { "id": 12, "name": "project12" },
-    { "id": 13, "name": "project13" },
-    { "id": 14, "name": "project14" },
-    { "id": 15, "name": "project15" },
-    { "id": 16, "name": "project16" }
+    {
+      "id": 1,
+      "name": "project1"
+    },
+    {
+      "id": 2,
+      "name": "project2"
+    },
+    {
+      "id": 3,
+      "name": "project3"
+    },
+    {
+      "id": 4,
+      "name": "project4"
+    },
+    {
+      "id": 5,
+      "name": "project5"
+    },
+    {
+      "id": 6,
+      "name": "project6"
+    },
+    {
+      "id": 7,
+      "name": "project7"
+    },
+    {
+      "id": 8,
+      "name": "project8"
+    },
+    {
+      "id": 9,
+      "name": "project9"
+    },
+    {
+      "id": 10,
+      "name": "project10"
+    },
+    {
+      "id": 11,
+      "name": "project11"
+    },
+    {
+      "id": 12,
+      "name": "project12"
+    },
+    {
+      "id": 13,
+      "name": "project13"
+    },
+    {
+      "id": 14,
+      "name": "project14"
+    },
+    {
+      "id": 15,
+      "name": "project15"
+    },
+    {
+      "id": 16,
+      "name": "project16"
+    }
   ],
-
   "products": [
     {
       "id": 1,
